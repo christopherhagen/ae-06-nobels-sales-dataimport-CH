@@ -1,6 +1,6 @@
 Nobel winners
 ================
-Naomi Ekas
+Christopher Hagen
 
 ``` r
 library(tidyverse)
